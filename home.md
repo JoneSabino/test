@@ -1,3 +1,5 @@
+theme: minimal
+
 # Robot Framework
 ** | Test Automation | RPA | **
 
